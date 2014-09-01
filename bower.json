@@ -1,5 +1,5 @@
 {
-  "name": "df-visible",
+  "name": "ppowalowski/df-visible",
   "version": "1.0.0",
   "main": "jquery.visible.js",
   "description": "Quickly check if an element is within the browsers visible viewport, regardless of scroll position. If a user can see this element, the function will return true.",

@@ -28,7 +28,7 @@
   ],
   "repository": {
     "type": "git",
-    "url": "git://github.com/teamdf/jquery-visible.git"
+    "url": "git://github.com/ppowalowski/jquery-visible.git"
   },
   "dependencies": {
     "jquery": ">1.6.0"
